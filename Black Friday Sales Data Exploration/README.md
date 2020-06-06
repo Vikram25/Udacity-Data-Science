@@ -25,10 +25,15 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Black Friday Dataset from Kaggle to better understand:
 
 Question 1: Which gender spent most during black Friday?
-Question 2:how much each gender spent in regards to eachself? What Type of Product each gender buys mostly?
+
+Question 2: how much each gender spent in regards to eachself? What Type of Product each gender buys mostly?
+
 Question 3: Which age group spent most during black Friday?
+
 Question 4: Which products are most popular during Black Friday?
+
 Question 5: Look at the users again, this time focus on group by Occupation in different city
+
 Question 6: Correlation between Gender, Age, Occupation, City_Category, Stay_In_Current_City_Years, Marital_Status, Product_Category_x vs Purchase
 
 ## File Descriptions <a name="files"></a>
@@ -39,7 +44,7 @@ BlackFriday.csv       - This file contains 550,000 observations about the black 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@vikramverma25/black-friday-sales-data-exploration-e09b7c276092).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
