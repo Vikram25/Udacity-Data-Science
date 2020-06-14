@@ -37,6 +37,7 @@ The Project is divided into three parts:
 
 ### Acknowledgements
 [Udacity](Udacity.com) For providing industry level nanodegree program.
+special thanks too [matteobonanomi](https://github.com/matteobonanomi)
 
 ### Screenshots
 1. Example of messages you can type to test ML model
