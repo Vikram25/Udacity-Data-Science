@@ -28,9 +28,6 @@ Both [random forest](http://blog.citizennet.com/blog/2012/11/10/random-forests-e
   - portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
   - profile.json - demographic data for each customer.
   - transcript.json - records for transactions, offers received, offers viewed, and offers completed.
-
-.gitignore  
-  - [Describes](https://git-scm.com/docs/gitignore) files and/or directories that should not be checked into revision control  
 - README.md  
   - [Markdown](https://guides.github.com/features/mastering-markdown/) file that summarizes this repository  
 	
